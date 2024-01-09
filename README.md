@@ -1,1 +1,1 @@
-Utility to control select LG TV using RS232.
+Utility to control select Samsung or LG TV using RS232.
